@@ -37,13 +37,6 @@ const iconSkills = [
   { Icon: SiPostman, name: "Postman" },
 ];
 
-
-const heroHighlights = [
-  'Full-stack developer with 2+ years of product delivery experience.',
-  'Built 20+ reusable components and complex admin platforms.',
-  'Focused on clean UI, strong data flows, and team collaboration.',
-];
-
 const stats = [
   { label: 'Years Experience', value: '2+' },
   { label: 'Screens Developed', value: '70+' },
